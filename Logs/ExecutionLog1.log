@@ -6,3 +6,7 @@
 2024-01-12 12:40:22,557 [main] INFO CoverFoxInsurance - TC is passed 
 2024-01-12 12:40:22,558 [main] FATAL CoverFoxInsurance - error messange
 2024-01-12 12:40:22,558 [main] WARN CoverFoxInsurance - warning messange
+2024-01-21 15:45:28,364 [main] INFO CoverFoxInsurance - Hello
+2024-01-21 15:46:03,705 [main] INFO CoverFoxInsurance - TC is passed 
+2024-01-21 15:46:03,707 [main] FATAL CoverFoxInsurance - error messange
+2024-01-21 15:46:03,803 [main] WARN CoverFoxInsurance - warning messange

@@ -73,7 +73,7 @@ Thread.sleep(1000);
 Reporter.log("Entering pin code ",true);
 addressDetails.enterPinCode("411046");
 Reporter.log("Entering mobile num ",true);
-addressDetails.enterMobNum("8888888888");
+addressDetails.enterMobNum("8887688999");
 Reporter.log("Clicking on continue button ", true);
 addressDetails.clickOnContinueButton();
 Thread.sleep(1000);
@@ -83,7 +83,7 @@ Thread.sleep(1000);
 public void validateTestPlansFromTextAndBanners() throws InterruptedException
 {
 	
-
+System.out.println("TC Running");
 Thread.sleep(5000);
 Reporter.log("Fetching number of results from text ", true);
 int textResult = result.availablePlanNumberFromText();

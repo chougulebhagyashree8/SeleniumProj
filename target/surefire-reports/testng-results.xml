@@ -41,19 +41,19 @@
       <![CDATA[Closing browser ]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-12T12:39:45 IST" name="Suite" finished-at="2024-01-12T12:40:27 IST" duration-ms="42154">
+  <suite started-at="2024-01-21T15:44:50 IST" name="Suite" finished-at="2024-01-21T15:46:07 IST" duration-ms="77798">
     <groups>
     </groups>
-    <test started-at="2024-01-12T12:39:45 IST" name="Test" finished-at="2024-01-12T12:40:27 IST" duration-ms="42154">
+    <test started-at="2024-01-21T15:44:50 IST" name="Test" finished-at="2024-01-21T15:46:07 IST" duration-ms="77798">
       <class name="coverFoxUsingTestNg.CF_TC555_Validate_search_results_for_healthcare_policies">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxUsingTestNg.CF_TC555_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-12T12:39:45 IST" name="launchBrowser" finished-at="2024-01-12T12:40:01 IST" duration-ms="15984" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxUsingTestNg.CF_TC555_Validate_search_results_for_healthcare_policies@3012646b]" started-at="2024-01-21T15:44:50 IST" name="launchBrowser" finished-at="2024-01-21T15:45:24 IST" duration-ms="34459" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening browser ]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="enterMemeberDeatils()[pri:0, instance:coverFoxUsingTestNg.CF_TC555_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-12T12:40:01 IST" name="enterMemeberDeatils" finished-at="2024-01-12T12:40:09 IST" duration-ms="8169" status="PASS">
+        <test-method is-config="true" signature="enterMemeberDeatils()[pri:0, instance:coverFoxUsingTestNg.CF_TC555_Validate_search_results_for_healthcare_policies@3012646b]" started-at="2024-01-21T15:45:25 IST" name="enterMemeberDeatils" finished-at="2024-01-21T15:45:49 IST" duration-ms="23929" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[clicking on gender button ]]>
@@ -78,7 +78,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- enterMemeberDeatils -->
-        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFoxUsingTestNg.CF_TC555_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-12T12:40:09 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-12T12:40:22 IST" duration-ms="13172" status="PASS">
+        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFoxUsingTestNg.CF_TC555_Validate_search_results_for_healthcare_policies@3012646b]" started-at="2024-01-21T15:45:49 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-21T15:46:03 IST" duration-ms="14683" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[TC validateTestPlansFromTextAndBanners execution is started]]>
@@ -94,7 +94,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateTestPlansFromTextAndBanners -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxUsingTestNg.CF_TC555_Validate_search_results_for_healthcare_policies@a514af7]" started-at="2024-01-12T12:40:22 IST" name="closeBrowser" finished-at="2024-01-12T12:40:27 IST" duration-ms="4633" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxUsingTestNg.CF_TC555_Validate_search_results_for_healthcare_policies@3012646b]" started-at="2024-01-21T15:46:03 IST" name="closeBrowser" finished-at="2024-01-21T15:46:07 IST" duration-ms="4073" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing browser ]]>
